@@ -1,0 +1,9 @@
+### Hi there, It's me Emir Öztürk 👋
+
+
+- 👷🏻‍♂️ I'm currently working on Discord, Youtube,Front-end development and school...
+- 📚 I’m currently learning : HTML, CSS, Bootstrap, JavaScript...
+- 📧 How to reach me: <a href="mailto: wmir00@hotmail.com" title="wmir00@hotmail.com">Email</a>
+- <span title="nickname#0893">[Discord](https://discord.gg/a6Yyu4tFhr)</span> - [Youtube](https://www.youtube.com/channel/UCf6UGeA_b3sFJukNO7JOutw) ...
+
+<img src="https://wallpaperaccess.com/full/2853514.png">
